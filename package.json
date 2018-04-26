@@ -1,0 +1,35 @@
+{
+  "name": "jxcode-array",
+  "version": "1.0.0",
+  "description": "Array manipulation, ordering, searching, summarizing, etc.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexZ33/jxcode-array.git"
+  },
+  "keywords": [
+    "jxcode",
+    "leetcode-array",
+    "array"
+  ],
+  "author": "AlexZ33",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexZ33/jxcode-array/issues"
+  },
+  "homepage": "https://github.com/AlexZ33/jxcode-array#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "package-preamble": "^0.1.0",
+    "rollup": "^0.58.2",
+    "seedrandom": "^2.4.3",
+    "tape": "^4.9.0",
+    "uglify-js": "^3.3.22"
+  }
+}
